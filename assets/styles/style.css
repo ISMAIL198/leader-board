@@ -1,0 +1,32 @@
+.logo {
+    width: 40px;
+}
+
+body {
+    background-color: #f1f3ff;
+}
+
+h3 {
+    color: #562eff;
+}
+
+.player img {
+    width: 56px;
+}
+
+main {
+    width: 870px;
+}
+
+.top-player,
+.top-blog {
+    background-color: #fff;
+}
+
+p {
+    font-weight: 600;
+}
+
+.card-footer {
+    border-top: none;
+}
